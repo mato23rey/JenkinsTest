@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="HelloWorld2.makejar" default="makejar" basedir=".">
   <target name ="makejar" description="Create a jar for the HelloWorld2 project">
-    <jar jarfile="HelloWorld2.jar" includes="*.class" basedir="bin"/>
+    <jar jarfile="HelloWorld2.jar" includes="*.class" basedir=""/>
   </target>
 </project>
